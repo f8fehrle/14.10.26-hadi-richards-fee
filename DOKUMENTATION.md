@@ -3,4 +3,5 @@ hadi-richards-fee
 wurden als collaborators eingeladen
 ein ruleset angelegt
 bestimmt das ein pull request für einen merge gemacht werden muss, unter umständen auch ein review nötig
-es gibt einen main, dann hatte noch jeder seinen eigenen 
+es gibt einen main, dann hatte noch jeder seinen eigenen branch zum privat arbeiten
+

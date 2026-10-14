@@ -1,0 +1,10 @@
+-hadi,richards&fee
+-14.10.26-hadi-richards-fee
+-wurden als collaborators eingeladen
+-ein ruleset angelegt
+-bestimmt das ein pull request für einen merge gemacht werden muss, unter umständen auch ein review nötig
+-es gibt einen main, dann hatte noch jeder seinen eigenen branch zum privat arbeiten
+-zum test von einem branch etwas auf den main übertregen und die dokumentation
+-eine pull request zum üben, und dann von jedem die dokumentation auf den main
+-konnte nicht gespeichert werden da man nicht die Berechtigung hatte direkt drauf zu arbeiten, man konnte aber mit dem bearbeiteten versuch direkt einen eigenen branch erstellen
+-jeder hat erstmal ideen für sich und kann diese geordnet aufschreiben, und dann das beste zusammentragen

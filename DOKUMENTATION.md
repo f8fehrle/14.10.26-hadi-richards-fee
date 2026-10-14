@@ -1,3 +1,3 @@
 hadi-richards-fee
 14.10.26-hadi-richards-fee
-wurden als colabrotars eingeladen
+wurden als collaborators eingeladen
